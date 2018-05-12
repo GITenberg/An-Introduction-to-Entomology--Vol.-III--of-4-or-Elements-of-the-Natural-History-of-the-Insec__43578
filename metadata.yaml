@@ -1,0 +1,45 @@
+_repo: An-Introduction-to-Entomology--Vol.-III--of-4-or-Elements-of-the-Natural-History-of-the-Insec__43578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kirby, William
+    aliases:
+    - Kirby, Wilhelm
+    - Kirby, G.‏ (Guillaume)
+    - Kirby, Wm.‏ (William)
+    - Kirby, Guillaume
+    - Kirby, W.‏ (William)
+    birthdate: 1759
+    deathdate: 1850
+    gutenberg_agent_id: '42238'
+    url: http://www.gutenberg.org/2009/agents/42238
+  - agent_name: Spence, William
+    birthdate: 1783
+    deathdate: 1860
+    gutenberg_agent_id: '42310'
+    url: http://www.gutenberg.org/2009/agents/42310
+description: ''
+gutenberg_issued: '2013-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Life cycles'
+- !lcsh 'Insects -- History'
+- !lcsh 'Insect pests'
+- !lcsh 'Insects'
+- !lcsh 'Insects -- Habitations'
+- !lcsh 'Beneficial insects'
+- !lcsh 'Insect societies'
+- !lcsh 'Insects -- Host plants'
+- !lcc 'QL'
+title: "An Introduction to Entomology: Vol. 3\r\nor Elements of the Natural History\
+  \ of the Insects"
+url: http://www.gutenberg.org/ebooks/43578
